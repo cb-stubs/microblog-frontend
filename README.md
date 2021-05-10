@@ -34,8 +34,6 @@ yarn lint
 
 ## Deploying with Helm
 
-## Dummy edits for pull requests
-- STUBS-1
 
 In order to deploy this application with Helm you'll need to update a few fields either with a custom values.yaml file or passed in on the cli.
 
@@ -50,3 +48,8 @@ helm upgrade --install microblog-frontend ./chart \
   --set image.repository=gcr.io/my_registry/frontend \
   --set image.tag=asd9f8
 ```
+
+
+
+## Dummy edits for pull requests
+- STUB-1
