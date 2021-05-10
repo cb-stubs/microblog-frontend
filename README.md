@@ -34,6 +34,9 @@ yarn lint
 
 ## Deploying with Helm
 
+## Dummy edits for pull requests
+- STUBS-1
+
 In order to deploy this application with Helm you'll need to update a few fields either with a custom values.yaml file or passed in on the cli.
 
 ### Example deploy
