@@ -47,3 +47,6 @@ helm upgrade --install microblog-frontend ./chart \
   --set image.repository=gcr.io/my_registry/frontend \
   --set image.tag=asd9f8
 ```
+
+## Demo edits
+- Features for STUB-2
