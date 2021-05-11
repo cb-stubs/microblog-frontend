@@ -50,3 +50,4 @@ helm upgrade --install microblog-frontend ./chart \
 
 ## Demo edits
 - Features for STUB-2
+- Test commit to development to test release pipeline
