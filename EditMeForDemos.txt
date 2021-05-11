@@ -1,1 +1,2 @@
 Some code for our STUB-2 feature
+Some more code for STUB-3 feature
